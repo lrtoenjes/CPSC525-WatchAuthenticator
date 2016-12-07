@@ -1,0 +1,31 @@
+{
+  "name": "Watch Authenticator",
+  "author": "MakeAwesomeHappen",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Watch Authenticator",
+    "uuid": "60dac362-3888-436d-96d2-17cb9d585033",
+    "sdkVersion": "4",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "basalt",
+      "chalk",
+      "diorite"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [
+      "APP_READY",
+      "LOCK_STATE",
+      "LOCK_UUID",
+      "ACCESS_TOKEN"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}

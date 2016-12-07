@@ -1,0 +1,24 @@
+{
+    "author": "luckytoenjes@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watchauthenticatorv2",
+    "pebble": {
+        "displayName": "WatchauthenticatorV2",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "message": 1,
+            "status": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "77383a32-3ebf-43a2-8bb3-92141432cb87",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
