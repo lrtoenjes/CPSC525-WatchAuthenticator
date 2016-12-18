@@ -1,0 +1,14 @@
+Below is the breakdown of tasks that our group members worked on:
+
+Jarret Spiker:
+
+Scott Balston:
+
+
+Luke Toenjes:
+
+I Worked on some of the communication protocols and cryptographic utilities that were
+required for both the Access Control System and the Phone Authenticator Android 
+applications. I also worked on creating the Pebble watch app prototype for communication
+with the phone application, as well as for initiating an authentication request through
+the watch.
