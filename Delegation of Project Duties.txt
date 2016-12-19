@@ -2,12 +2,14 @@ Below is the breakdown of tasks that our group members worked on:
 
 Jarret Spiker:
 
+I worked on desinging and implementing the communication protocols and the UI for the access control system and the smart watch authenticator. I set up the projects, and a lot of the original framework which the apps are built on, including the threading, the system structure, the communication abstration, and the basic UI.
+
 Scott Balston:
 
 
 Luke Toenjes:
 
-I Worked on some of the communication protocols and cryptographic utilities that were
+I worked on some of the communication protocols and cryptographic utilities that were
 required for both the Access Control System and the Phone Authenticator Android 
 applications. I also worked on creating the Pebble watch app prototype for communication
 with the phone application, as well as for initiating an authentication request through
