@@ -6,6 +6,7 @@ I worked on desinging and implementing the communication protocols and the UI fo
 
 Scott Balston:
 
+I worked on the Bluetooth communication during the initializing of the access control system and the phone authenticator, including activating Bluetooth on the devices, setting permissions for Bluetooth, making each device discoverable, searching for other devices, and the basic UI.
 
 Luke Toenjes:
 
